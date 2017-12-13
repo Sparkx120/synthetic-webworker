@@ -1,0 +1,22 @@
+{
+  "name": "synthetic-webworker",
+  "version": "0.0.5",
+  "description": "A webworker loader library",
+  "main": "SyntheticWorker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparkx120/synthetic-webworker.git"
+  },
+  "keywords": [
+    "webworker"
+  ],
+  "author": "SparkX120 (James Wake)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sparkx120/synthetic-webworker/issues"
+  },
+  "homepage": "https://github.com/Sparkx120/synthetic-webworker#readme"
+}
