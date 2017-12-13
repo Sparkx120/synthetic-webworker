@@ -12,7 +12,7 @@
  * @version 0.0.5 (2017/12)
  * @license MIT
  */
-class SyntheticWorker{
+export default class SyntheticWorker{
     constructor(workerfunc, onMsg){
 		
 		let funcStr = workerfunc.toString();
@@ -48,5 +48,3 @@ class SyntheticWorker{
             this.worker.postMessage(msg);
     }
 }
-
-module.exports = SyntheticWorker;
